@@ -3,6 +3,7 @@
 ### Few scripts that will make your life easier.
 
 I personally used this when I took CS350 (and I finished the course pretty successfully too).
+
 I made these scripts to make version control with github easier and load testing easier.
 
 There are three scripts available. 
@@ -18,6 +19,7 @@ For example,
 ```
 
 Make sure to run this in sys161 directory.
+
 The script will automatically build and compile your OS and take you back to sys161 directory.
 
 #### 2. load.sh
